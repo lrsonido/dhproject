@@ -1,6 +1,4 @@
-# dhproject
-
-The following people comprise my thesis panel.
+# The following people comprise my thesis panel.
 
 Patrick Campos
 
